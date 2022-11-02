@@ -1,8 +1,8 @@
 {
-  "name": "tasks-redux",
+  "name": "tasks-redux-async",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stgran66.github.io/tasks-redux/",
+  "homepage": "https://stgran66.github.io/tasks-redux-async/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.3",
     "@testing-library/jest-dom": "^5.16.3",
